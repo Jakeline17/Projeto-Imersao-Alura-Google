@@ -1,4 +1,4 @@
-# Chatbot para Treino de Inglês
+# Chatbot para Treino de Inglês 
 
 Este é um chatbot simples em Python projetado para ajudar usuários a praticar suas habilidades em inglês. Ele utiliza processamento de linguagem natural (PNL) para entender a entrada do usuário e fornecer respostas apropriadas.
 
@@ -30,8 +30,6 @@ Este é um chatbot simples em Python projetado para ajudar usuários a praticar 
 * O uso de APIs externas pode exigir chaves de API ou configurações adicionais.
 
 ## Exemplo de conversa:
-Use code with caution.
-Markdown
 You: Hello!
 ChatBot: Hi, how are you?
 You: I am fine, thanks. What's your name?
